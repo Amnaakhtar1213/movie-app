@@ -1,4 +1,4 @@
-const API_KEY = "cd9cd62e65e75e9e2cd09530e7eb1f60";
+const API_KEY = import.meta.env.VITE_TMDB_API_KEY;
 const BASE_URL = "https://api.themoviedb.org/3"
 
 
