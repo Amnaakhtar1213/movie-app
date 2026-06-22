@@ -38,4 +38,4 @@ Users can browse popular movies, search for specific titles, and save favorites.
 
 ## Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Amnaakhtar1213/movie-app.git
